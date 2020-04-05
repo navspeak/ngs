@@ -1,4 +1,4 @@
-// Scalar values
+// Scalar values - immutable
 const answer = 42;
 const greeting = 'Hello';
 
@@ -8,3 +8,6 @@ const person = {
   firstName: 'John',
   lastName: 'Doe',
 };
+
+//Object.freeze() - only first level
+// Immutable.js

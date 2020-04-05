@@ -35,3 +35,4 @@ Challenge 2:
   Constraints:
    - Only use setInterval (not setTimeout)
    - Use only ONE if statement
+//jscomplete.com/ngs/1

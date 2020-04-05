@@ -14,7 +14,7 @@ answer // is still 42;
 
 
 
-let answer = 42;
+let answer = 42; //good for changing scaler value like let
 
 /*
 

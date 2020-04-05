@@ -1,4 +1,5 @@
 # Node.js: Getting Started
+# Forked for Pluralsight lab excercise from https://github.com/jscomplete/ngs 
 * Node REPL 
     *.editor, .help, .break
     * .save history.js

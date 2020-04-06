@@ -5,7 +5,7 @@ const server = express();
 server.set('view engine', 'ejs');
 
 server.get('/', (req, res) => {
-  res.render('index');
+  res.render('index', {rnd: Math.random()});
 });
 
 server.get('/about', (req, res) => {

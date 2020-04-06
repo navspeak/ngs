@@ -23,3 +23,19 @@
     *^1.2.3 => 1.x.y, x >=2, y anything
     *you can use 4.x etc but semVer is better
  * npm login > in the package folder npm init > npm push
+ * npx eslint --init
+ * npm run check
+ * npm uninstall express
+ * npm show express versions
+ * npm outdated => tells you which modules will be updated on npm update
+ * npm install express@latest (or @4)
+ * npm ls -> tree
+ * Yarn another option
+ * Objects and exports concept - 4-modules > 2-examples
+ * npm install -g nodemon
+ * node alternatives - Koa, Sail.js (inspired by rails), meteor
+ * templating languages: pug (HTML is based on offside rule), handlebars (same that ember framework uses), or simplest is EJS (embedded JS)
+ * Debugging:
+    *  node --inspect-brk 4-bug.js
+        * Debugger listening on ws://127.0.0.1:9229/1fbe2711-94bf-4cc0-a20d-42801f727416
+    * Use Chrome Dev tools: chrome://inspect/#devices
